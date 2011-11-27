@@ -1,0 +1,9 @@
+{
+  "name": "mongolabtest",
+  "version": "1.0.0",
+  "description": "Sample app using Heroku, Node.js, and MongoLab",
+  "dependencies": {
+    "connect": "1.8.x",
+    "mongodb": "0.9.x"
+  }
+}
